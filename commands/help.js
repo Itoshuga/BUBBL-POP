@@ -17,6 +17,7 @@ const CATEGORY_META = {
   moderation:  { label: 'Modération',  emoji: '🛡️' },
   admin:       { label: 'Admin',       emoji: '👑' },
   utils:       { label: 'Outils',      emoji: '🧰' },
+  social:      { label: 'Social',      emoji: '👋' },
   other:       { label: 'Autres',      emoji: '📦' }, // fallback
 };
 
